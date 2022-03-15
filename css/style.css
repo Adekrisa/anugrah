@@ -1,0 +1,46 @@
+.slider h3,
+.slider h5,
+.partner h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.about img {
+    width: 450px;
+    height: 450px;
+}
+
+.about span,
+footer span {
+    font-weight: bold;
+}
+
+.visi ul li {
+    list-style-type: square;
+}
+
+section {
+    padding: 20px 0;
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.partner img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+.contact .logo img {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
