@@ -41,6 +41,15 @@ section {
     height: 40px;
 }
 
+.wa img {
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    position: fixed;
+    z-index: 999;
+}
 
 
 
